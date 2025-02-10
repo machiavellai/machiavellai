@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi there, I'm Victor Oghene{velli} 👋
 
-<!--
-**machiavellai/machiavellai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+## 🚀 About Me
+I'm a [Your Profession] with a passion for [Your Interests].
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills & Technologies
+- **Languages:** [Language 1], [Language 2], [Language 3]
+- **Frameworks:** [Framework 1], [Framework 2]
+- **Tools:** [Tool 1], [Tool 2]
+
+## 📊 GitHub Analytics
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=machiavellai&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=machiavellai&show_icons=true&theme=radical)
+
+## 🔥 Streaks
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=machiavellai&theme=radical)
+
+## 📂 Projects
+Here are some of my notable projects:
+- [Project 1](https://github.com/machiavellai/project1): Brief description of project 1.
+- [Project 2](https://github.com/machiavellai/project2): Brief description of project 2.
+- [Project 3](https://github.com/machiavellai/project3): Brief description of project 3.
+
+## 📫 Contact Me
+- Email: [Your Email]
+- LinkedIn: [Your LinkedIn Profile]
+- Twitter: [Your Twitter Handle]
+
+Thanks for visiting my profile!
