@@ -3,7 +3,7 @@
 Welcome to my GitHub profile!
 
 ## 🚀 About Me
-I'm a [Your Profession] with a passion for [Your Interests].
+I'm a Software Developer with a passion for building innovative solutions for the better living hood of individuals and businesses
 
 ## 🛠️ Skills & Technologies
 - **Languages:** [Language 1], [Language 2], [Language 3]
